@@ -1,4 +1,3 @@
-
 Citizen.CreateThread(function()
 	Citizen.Wait(100)
 
